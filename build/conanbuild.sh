@@ -1,0 +1,1 @@
+. "/home/admin/Desktop/ProtoTwo/build/conanbuildenv-release-x86_64.sh"
